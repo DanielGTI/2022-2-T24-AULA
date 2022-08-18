@@ -6,7 +6,11 @@
 https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-6.0.400-windows-x64-installer
 
 # VSCODE	
+VSCODE:
 https://code.visualstudio.com/
+
+VSCODE Online
+https://vscode.dev/
 
 
 # Extensões do VSCODE:
