@@ -1,5 +1,8 @@
 # Aula de C#
 
+Aula 1 = https://github.com/DanielGTI/2022-2-T24-AULA/tree/aula1
+
+
 
 # Links úteis:
 # .NET 6.0 SDK (v6.0.400) - Windows x64 Installer!
