@@ -6,4 +6,7 @@ dotnet new console
 Para "rodar" ou executar um projeto:
 dotnet run
 
+Para limpar o terminal
+clear ou cls
+
 
