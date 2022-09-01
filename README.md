@@ -2,6 +2,11 @@
 
 Aula 1 = https://github.com/DanielGTI/2022-2-T24-AULA/tree/aula1
 
+Aula 2 = https://github.com/DanielGTI/2022-2-T24-AULA/tree/aula2
+
+Aula 3 = https://github.com/DanielGTI/2022-2-T24-AULA/tree/aula3
+
+
 
 
 # Links úteis:
