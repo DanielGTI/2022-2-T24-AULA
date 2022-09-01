@@ -1,17 +1,31 @@
-﻿// Comentário = escreva o que necessitar.
-// Variável = espaço reservado na memória do computador.
+﻿static void p1001(){
+    Console.Write("Prog 1");
+}
 
-//  inteiro = int
-//  real    = double ou decimal
-double salario, dia;
+static void p1002(){
+    Console.Write("Prog 2");
+}
+  
+static void p1003(){
+    Console.Write("Prog 3");
+}
+    int prog;
+    Console.Clear();
 
-dia = 10;
+    do{
+        Console.Write("\nGerenciador de programas:\n");
+        Console.Write("\n\t| 0 para sair |\nDigite o programa desejado: ");
+        prog = Convert.ToInt32(Console.ReadLine());
 
-//  Para escrever na tela = Console.Write("Texto");
-Console.Write("Digite o salario: ");
+        switch( prog ){
+            case 1001:  p1001();    break;
+            case 1002:  p1002();    break;
+            case 1003:  p1003();    break;
+            case 0:     Console.Write("\nObrigado por utilizar nosso Software\n");    break;
+            default:    Console.Write("\nOpção Inválida\n");    break;            
+        }
+    }while( prog != 0 ); 
+       
+    
 
-//  Para ler um valor = Console.ReadLine();
-salario = Convert.ToDouble( Console.ReadLine() ) ;
-
-Console.Write("O salario digitado é = R$ {1}, vou receber no dia {0}", dia, salario.ToString("0.00"));
-
+    
